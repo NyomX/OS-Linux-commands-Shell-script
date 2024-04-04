@@ -1,5 +1,5 @@
-## NAME:SHYAM SUJIN U
-## REG NO:212223040201
+## NAME:Sandeep V
+## REG NO:212223040179
 
 # OS-Linux-commands-Shell-scripting
 Operating systems Lab exercise
